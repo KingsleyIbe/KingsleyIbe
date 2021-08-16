@@ -11,7 +11,7 @@ You can reach via the following channels:
 [Website](https://kingsleyibe.net/)<br/>
 [Twitter](https://twitter.com/ibekingsley2)<br/>
 [Email](ibekingsley66gmail.com)<br/>
-[WhatsApp](+2347030331929)<br/>
+[WhatsApp](https://api.whatsapp.com/send/?phone=2347030331929&text&app_absent=0)<br/>
 
 Pronouns: He/His/Him<br/>
 
