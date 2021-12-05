@@ -17,4 +17,4 @@ Pronouns: He/His/Him<br/>
 
 👋 👀 🌱 💞️ 📫 
 
-
+[![Kingsley's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingsleyibe)](https://github.com/kingsleyibe/github-readme-stats)
