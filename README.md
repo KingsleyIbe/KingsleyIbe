@@ -1,3 +1,6 @@
+![Video Demo](https://user-images.githubusercontent.com/43799727/151937355-0c8775ba-8e64-41c1-8ea4-78166f16d4bc.mp4)
+
+
 ## Hi there 👋, I'm Kingsley
 
  A Full-stack web developer with a focus on JavaScript Frontend technologies such as Reactjs. 
