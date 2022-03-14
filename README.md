@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Kingsley
 
- A Full-stack web developer with a focus on JavaScript Frontend technologies such as Reactjs. 
+ A Software Developer with a focus on JavaScript Frontend technologies such as Reactjs. 
 I am an inventive individual, with a keen interest in working in the Technology firm and a huge hunger for learning. 
 I am seeking a Front End developer position with a growing organization where I can contribute to its growth while ultilzing the work challenge for my personal development.
 
