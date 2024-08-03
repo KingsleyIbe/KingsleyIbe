@@ -20,6 +20,7 @@ You can reach me via the following channels:
 [LinkedIn](https://www.linkedin.com/in/kingsley-ibe-5669a5134/)<br/>
 [Website](https://kingsleyibe.net/)<br/>
 [Twitter](https://twitter.com/kingsleyibec)<br/>
+[Subscribe to my YouTube Channel](https://youtu.be/A3PHqW0EmIA)<br/>
 [Email: ibekingsley66@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)<br/>
 [WhatsApp](https://api.whatsapp.com/send/?phone=2347030331929&text&app_absent=0)<br/>
 
