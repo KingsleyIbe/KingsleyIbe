@@ -6,7 +6,7 @@ I've spent the last few years working on a number of amazing projects: landing p
 
 I've developed extensive knowledge in:
 Front-End: JavaScript | React | Typescript  | NextJs | Redux | jQuery | HTML5 | CSS3 | SASS | Tailwind
-Back-End: Ruby | Rails | MySQL | Nodejs | Express | MongoDB
+Back-End:  MySQL | Nodejs | Express | MongoDB
 Tools & Methods: Git | GitHub | Heroku | Netlify | Mobile/Responsive Development | TDD | Chrome Dev Tools | Webpack.
 Professional: Advanced Technical Writing  | Documentation  | Remote Pair-Programming |  Teamwork | Mentoring | Project Management.
 
@@ -17,10 +17,11 @@ Looking for a Developer? Let's schedule a Zoom chat!
 
 You can reach me via the following channels:
 
-[LinkedIn](https://www.linkedin.com/in/kingsley-ibe-5669a5134/)<br/>
-[Website](https://kingsleyibe.net/)<br/>
-[Twitter](https://twitter.com/kingsleyibec)<br/>
-[Subscribe to my YouTube Channel](https://youtu.be/A3PHqW0EmIA)<br/>
+[LinkedIn](https://www.linkedin.com/in/kingsley-ibe/)<br/>
+[Website](https://kingsleyibe.vercel.app/)<br/>
+[Twitter](https://x.com/kingsleyibec)<br/>
+[Read My Articles On Medium](https://medium.com/@ibekingsley)<br/>
+[Subscribe to my YouTube Channel](https://youtube.com/@kingsleyibe)<br/>
 [Email: ibekingsley66@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)<br/>
 [WhatsApp](https://api.whatsapp.com/send/?phone=2347030331929&text&app_absent=0)<br/>
 
